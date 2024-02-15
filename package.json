@@ -14,7 +14,7 @@
   "bugs": {
     "url": "https://github.com/caravan-bitcoin/caravan/issues"
   },
-  "homepage": "/caravan/",
+  "homepage": "/build/",
   "engineStrict": true,
   "engines": {
     "node": ">=20"
